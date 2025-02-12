@@ -17,7 +17,7 @@ dependencies {
     implementation "org.apache.tomee:javaee-api:8.0-5"
     testImplementation "org.apache.tomee:tomee-jaxrs:8.0.14"
     testImplementation "org.apache.tomee:arquillian-tomee-embedded:8.0.14"
-    testImplementation "junit:junit:4.12"
+    testImplementation "junit:junit:4.13.2"
 }
 
 war {
